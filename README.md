@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dhruvil-84/dhruvil-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,3 +43,30 @@ public class AboutMe {
         System.out.println("Thank you for visiting my profile. Let's make a meaningful impact together 🌐.");
     }
 }
+
+💡 Tech Stack
+Languages:
+
+
+Web Development:
+
+
+Tools & Technologies:
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=radical" /> </p>
+
+🔥 Streak Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=dark" /> </p>
+
+🎯 Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
+
+🌟 Unique Feature: "Did You Know?"
+def fun_fact():
+    print("Did you know? Dhruvil is an avid hackathon enthusiast! 🏆 Loves building solutions and bringing ideas to life.")
+
+fun_fact()
+
+🌍 Let's Connect!
+<p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Dhruvil_Dhamecha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dhruvildhamecha@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-dhruvildhamecha%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p> ```
