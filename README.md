@@ -1,74 +1,73 @@
-<h1 align="center"> Welcome to the Mind of Dhruvil Dhamecha 💻 </h1>
+<!--
+**dhruvil-84/dhruvil-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center">Hi there! 👋 I'm Dhruvil Dhamecha</h1>
+<h3 align="center">🚀 Passionate about coding, tech, and building the future 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=24&center=true&vCenter=true&width=450&lines=Loading+Secrets...;Unveiling+Genius...;Mind+Blown+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Java+Developer;Python+Enthusiast;Open+Source+Contributor;Full+Stack+Developer" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvil-dhamecha/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dhruvil-84" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ⌛ Patience is Key
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="mystery gif" width="300"/>
-</p>
-
-<p align="center">
-  <i>Sometimes, the most powerful code lies beneath the surface...</i>
-</p>
-
----
-
-### 🧠 Enter the Matrix
-
-Accessing... Initiating... Loading user: Dhruvil_Dhamecha [status: CODE-BREAKER 💻]
-
-**[Continue?]**  
-- [x] YES  
-- [ ] NO  
-
----
-
-### 🎮 LEVEL 1: DISCOVERY
-- **Languages Mastered**:  
-  ![Java](https://img.shields.io/badge/-Java-%23FF5733?style=flat&logo=java&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)  
-- **Weapons of Choice**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-- **Frameworks**:  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-
----
-
-### 🎯 LEVEL 2: UNLOCKING POTENTIAL
-- **Dream Projects**:  
-  - 🌟 Building AI-powered Web Platforms  
-  - 🎮 Developing Immersive Game Experiences  
-  - 🧑‍🤝‍🧑 Contributing to Open Source
-
-Current Focus: Full Stack Web Development 🌐
-### 🔮 LEVEL 3: THE MINDFLIP
-
-⚡ Random Fact: Dhruvil believes tech is magic in disguise 🧙‍♂️.
-
-function dhruvilMindGame() {
-    let answer = prompt("What's 2 + 2?");
-    if (answer === "4") {
-        alert("Well done! You've cracked the first code 🧠");
-    } else {
-        alert("Try again, tech wizard! 🧙‍♂️");
+## About Me
+```java
+public class AboutMe {
+    public static void main(String[] args) {
+        System.out.println("Hello, World! 👋 I'm Dhruvil Vijay Dhamecha, a recent grad in Computer Science & Engineering from GSFC University.");
+        System.out.println("Passionate about tech 🚀 and driven by innovation.");
+        System.out.println("I chose B.Tech in CSE to shape the future through technology 💡.");
+        System.out.println("I'm passionate about coding challenges, hackathons, and staying updated with tech advancements 💻.");
+        System.out.println("Strong in communication, a resilient mindset, and a collaborative spirit 🤝.");
+        System.out.println("Thank you for visiting my profile. Let's make a meaningful impact together 🌐.");
     }
 }
+```
+💡 Tech Stack
+Languages:
 
-🎁 Surprise Feature: Are You a True Coder?
-<details> <summary>Click to Find the Hidden Code</summary>
-System.out.println("Hello, you found the hidden easter egg 🥚!");
-</details>
 
-👀 SECRET LEVEL: THE VISIONARY
-Envisioning a future where tech builds bridges, not walls.
-Together, let's rewrite the world with code.
+Web Development:
 
-💬 LET’S CONNECT
-<p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/dhruvil-84" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> 👾 If you made it this far, you're not just visiting my profile, you're exploring it. Welcome to the mind of a coder. 💻 </p>
+
+Tools & Technologies:
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=radical" /> </p>
+
+🔥 Streak Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=dark" /> </p>
+
+🎯 Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
+
+🌟 Unique Feature: "Did You Know?"
+```python
+def fun_fact():
+    print("Did you know? Dhruvil is an avid hackathon enthusiast! 🏆 Loves building solutions and bringing ideas to life.")
+fun_fact()
+```
+
+🌍 Let's Connect!
+<p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Dhruvil_Dhamecha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dhruvildhamecha@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-dhruvildhamecha%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
