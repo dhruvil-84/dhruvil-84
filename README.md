@@ -63,8 +63,10 @@ Tools & Technologies:
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
 
 🌟 Unique Feature: "Did You Know?"
+```python
 def fun_fact():
     print("Did you know? Dhruvil is an avid hackathon enthusiast! 🏆 Loves building solutions and bringing ideas to life.")
+```
 
 fun_fact()
 
