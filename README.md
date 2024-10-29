@@ -21,9 +21,6 @@
 
 Accessing... Initiating... Loading user: Dhruvil_Dhamecha [status: CODE-BREAKER 💻]
 
-yaml
-Copy code
-
 **[Continue?]**  
 - [x] YES  
 - [ ] NO  
@@ -49,14 +46,11 @@ Copy code
   - 🎮 Developing Immersive Game Experiences  
   - 🧑‍🤝‍🧑 Contributing to Open Source
 
-```bash
 Current Focus: Full Stack Web Development 🌐
-🔮 LEVEL 3: THE MINDFLIP
-bash
-Copy code
+### 🔮 LEVEL 3: THE MINDFLIP
+
 ⚡ Random Fact: Dhruvil believes tech is magic in disguise 🧙‍♂️.
-js
-Copy code
+
 function dhruvilMindGame() {
     let answer = prompt("What's 2 + 2?");
     if (answer === "4") {
@@ -65,18 +59,16 @@ function dhruvilMindGame() {
         alert("Try again, tech wizard! 🧙‍♂️");
     }
 }
+
 🎁 Surprise Feature: Are You a True Coder?
 <details> <summary>Click to Find the Hidden Code</summary>
-bash
-Copy code
 System.out.println("Hello, you found the hidden easter egg 🥚!");
-
 </details>
+
 👀 SECRET LEVEL: THE VISIONARY
-vbnet
-Copy code
 Envisioning a future where tech builds bridges, not walls.
 Together, let's rewrite the world with code.
+
 💬 LET’S CONNECT
 <p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/dhruvil-84" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> 👾 If you made it this far, you're not just visiting my profile, you're exploring it. Welcome to the mind of a coder. 💻 </p> ```
+<p align="center"> 👾 If you made it this far, you're not just visiting my profile, you're exploring it. Welcome to the mind of a coder. 💻 </p>
