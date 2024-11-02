@@ -13,20 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>💫 About Me</h1>
-<hr>
 <h2>👋 Hello, World! 👋 I'm Dhruvil Vijay Dhamecha. </h2>
-
 <p><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Developer;DSA;Open+Source+Contributor;" /></p>
-
 <p>🚀 I am passionate about tech 💻 and driven by innovation 💡. </p>
 <p>💻 I chose B.Tech in CSE to shape the future through technology 💡. </p>
 <p>🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 💻. </p>
 <p>🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝.</p>
 <p>🌱 Check out my projects. </p>
+<p>📫 Reach me at <a href="dhruvilvdhamecha84@gmail.com">Dhruvil Dhamecha</a>. </p>
 
-<p>📫 Reach me at <a>dhruvilvdhamecha84@gmail.com</a>. </p>
-
-<p align="center">
+<p align="center>
   <a href="https://www.linkedin.com/in/dhruvil-dhamecha/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -34,8 +30,6 @@ Here are some ideas to get you started:
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 ## About Me
 ```java
