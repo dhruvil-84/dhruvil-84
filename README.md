@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1>💫 About Me</h1>
 <h2>👋 Hello, World! 👋 I'm Dhruvil Vijay Dhamecha. </h2>
-<p><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&vCenter=true&lines=Java+Developer;Full+Stack+Developer;DSA;Open+Source+Contributor;" /></p>
+<p><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor;" /></p>
 <p>🚀 I am passionate about tech 💻 and driven by innovation 💡. </p>
 <p>💻 I chose B.Tech in CSE to shape the future through technology 💡. </p>
 <p>🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 💻. </p>
@@ -44,14 +44,14 @@ public class AboutMe {
     }
 }
 ```
-💡 Tech Stack
-<h1>Languages:</h1>
-<h1>Web Development:</h1>
-<h1>Tools & Technologies:</h1>
+<h1>💡 Tech Stack</h1>
+Languages:
+Web Development:
+Tools & Technologies:
 
 <h1>📊 GitHub Stats</h1>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=radical" /> </p>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=radical" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=dark" /> </p>
 
 <h1>🎯 Random Dev Quote</h1>
