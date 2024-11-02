@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 <h1>💫 About Me</h1>
 <p>👋 Hello, World! 👋 I'm Dhruvil Vijay Dhamecha. </p>
-<p><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&vCenter=true&lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor;" /></p>
+<p><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&vCenter=true&lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor;" /></p>
 <p>🚀 I am passionate about tech 💻 and driven by innovation 💡. </p>
 <p>💻 I chose B.Tech in CSE to shape the future through technology 💡. </p>
 <p>🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 🌐. </p>
 <p>🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝.</p>
 <p>🌱 Check out my projects. </p>
-<p>📫 Reach me at <a href="dhruvilvdhamecha84@gmail.com">DhruvilvDhamecha</a>. </p>
+<p>📫 Reach me at <a href="mailto:dhruvilvdhamecha84@gmail.com">DhruvilvDhamecha</a>. </p>
 
 <p align="center>
-  <a href="www.linkedin.com/in/dhruvil-dhamecha-64127027b">
+   <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dhruvil-84" target="_blank">
@@ -65,4 +65,4 @@ fun_fact()
 ```
 
 🌍 Let's Connect!
-<p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Dhruvil_Dhamecha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dhruvildhamecha@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-dhruvildhamecha%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Dhruvil_Dhamecha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dhruvilvdhamecha84@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-dhruvildhamecha%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
