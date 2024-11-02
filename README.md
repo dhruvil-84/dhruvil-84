@@ -50,8 +50,8 @@ Web Development:
 Tools & Technologies:
 
 <h1>📊 GitHub Stats</h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=radical" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=dark" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=dark" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=dark" /> </p>
 
 <h1>🎯 Random Dev Quote</h1>
