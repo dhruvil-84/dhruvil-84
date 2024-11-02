@@ -12,13 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>💫 About Me</h1>
+<hr>
+<h2>👋 Hello, World! 👋 I'm Dhruvil Vijay Dhamecha. </h2>
 
-<h1 align="center">Hi there! 👋 I'm Dhruvil Dhamecha</h1>
-<h3 align="center">🚀 Passionate about coding, tech, and building the future 💻</h3>
+<p><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Developer;DSA;Open+Source+Contributor;" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Java+Developer;Python+Enthusiast;Open+Source+Contributor;Full+Stack+Developer" />
-</p>
+<p>🚀 I am passionate about tech 💻 and driven by innovation 💡. </p>
+<p>💻 I chose B.Tech in CSE to shape the future through technology 💡. </p>
+<p>🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 💻. </p>
+<p>🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝.</p>
+<p>🌱 Check out my projects. </p>
+
+<p>📫 Reach me at <a>dhruvilvdhamecha84@gmail.com</a>. </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruvil-dhamecha/" target="_blank">
