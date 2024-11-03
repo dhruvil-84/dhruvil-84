@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <p>🌱 Check out my projects. </p>
 <p>📫 Reach me at <a href="mailto:dhruvilvdhamecha84@gmail.com">DhruvilvDhamecha</a>. </p>
 
-<p align="center>
+<p align="center"> 
    <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dhruvil-84" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" />
-  </a>
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="https://github.com/dhruvil-84" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" />
+   </a>
 </p>
 
 ## About Me
@@ -65,4 +65,4 @@ fun_fact()
 ```
 
 🌍 Let's Connect!
-<p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Dhruvil_Dhamecha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dhruvilvdhamecha84@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-dhruvildhamecha%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Dhruvil_Dhamecha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dhruvilvdhamecha84@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-dhruvildhamecha84%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
