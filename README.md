@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvil-84&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-### 📈 GitHub Stats & Highlights
-<div align="center">
-  <a href="https://github.com/dhruvil-84/JavaSecrets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvil-84&repo=JavaSecrets&theme=radical" alt="JavaSecrets Repo Card" />
-  </a>
-</div>
-
 <!--
 **dhruvil-84/dhruvil-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,9 +33,9 @@ Here are some ideas to get you started:
 </p>
 
 <h1>💡 Tech Stack</h1>
-Languages:
-Web Development:
-Tools & Technologies:
+<p>Languages:</p>
+<p>Web Development:</p>
+<p>Tools & Technologies:</p>
 
 <h1>📊 GitHub Stats</h1>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=radical" /> </p>
@@ -61,12 +50,15 @@ Tools & Technologies:
 <h1>🎯 Random Dev Quote</h1>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
 
-🌟 Unique Feature: "Did You Know?"
-```python
-def fun_fact():
-    print("Did you know? Dhruvil is an avid hackathon enthusiast! 🏆 Loves building solutions and bringing ideas to life.")
-fun_fact()
-```
-
-🌍 Let's Connect!
+<h1>🌍 Let's Connect!</h1>
 <p align="center"> <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Dhruvil_Dhamecha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dhruvilvdhamecha84@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-dhruvildhamecha84%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+
+<h1>🗂️ My Repositories</h1>
+<div align="center">
+  <a href="https://github.com/dhruvil-84/JavaSecrets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvil-84&repo=JavaSecrets&theme=radical" alt="JavaSecrets Repo Card" />
+  </a>
+  <a href="https://github.com/dhruvil-84/100DaysOfPython">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvil-84&repo=100DaysOfPython&theme=radical" alt="100DaysOfPython Repo Card" />
+  </a>
+</div>
