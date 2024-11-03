@@ -43,32 +43,19 @@ Here are some ideas to get you started:
    </a>
 </p>
 
-## About Me
-```java
-public class AboutMe {
-    public static void main(String[] args) {
-        System.out.println("Hello, World! 👋 I'm Dhruvil Vijay Dhamecha, a recent grad in Computer Science & Engineering from GSFC University.");
-        System.out.println("Passionate about tech 🚀 and driven by innovation.");
-        System.out.println("I chose B.Tech in CSE to shape the future through technology 💡.");
-        System.out.println("I'm passionate about coding challenges, hackathons, and staying updated with tech advancements 💻.");
-        System.out.println("Strong in communication, a resilient mindset, and a collaborative spirit 🤝.");
-        System.out.println("Thank you for visiting my profile. Let's make a meaningful impact together 🌐.");
-    }
-}
-```
 <h1>💡 Tech Stack</h1>
 Languages:
 Web Development:
 Tools & Technologies:
 
 <h1>📊 GitHub Stats</h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=dark" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=dark" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=dark" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=radical" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=radical" /> </p>
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=radical" /> </p>
 
 <h1>🏆 GitHub Trophies </h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvil-84&theme=dracula&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvil-84&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <h1>🎯 Random Dev Quote</h1>
