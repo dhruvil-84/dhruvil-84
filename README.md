@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvil-84&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+### 📈 GitHub Stats & Highlights
+<div align="center">
+  <a href="https://github.com/dhruvil-84/JavaSecrets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvil-84&repo=JavaSecrets&theme=radical" alt="JavaSecrets Repo Card" />
+  </a>
+</div>
+
 <!--
 **dhruvil-84/dhruvil-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +26,8 @@ Here are some ideas to get you started:
 <h1>💫 About Me</h1>
 <p>👋 Hello, World! 👋 I'm Dhruvil Vijay Dhamecha. </p>
 <p><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&vCenter=true&lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor;" /></p>
-<p>🚀 I am passionate about tech 💻 and driven by innovation 💡. </p>
+<p>🏫 Currently in Semester 3 of B.Tech CSE at GSFC University. </p>
+<p>🎨 Member of the ACM GSFCU Design Team. </p>
 <p>💻 I chose B.Tech in CSE to shape the future through technology 💡. </p>
 <p>🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 🌐. </p>
 <p>🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝.</p>
@@ -53,6 +65,11 @@ Tools & Technologies:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvil-84&show_icons=true&theme=dark" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-84&layout=compact&theme=dark" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=dark" /> </p>
+
+<h1>🏆 GitHub Trophies </h1>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvil-84&theme=dracula&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 <h1>🎯 Random Dev Quote</h1>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
