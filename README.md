@@ -97,7 +97,7 @@
 
 # 🗂️ My Repositories
 <div align="center">
-  <a href="https://github.com/dhruvil-84/JavaSecrets">
+  <a href="https://github.com/dhruvil-84/Java-Secrets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvil-84&repo=Java-Secrets&theme=radical" alt="Java-Secrets Repo Card" />
   </a>
   <a href="https://github.com/dhruvil-84/100DaysOfPython">
