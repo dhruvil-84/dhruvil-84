@@ -31,7 +31,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-#### Favourite IDEs:
+#### Favourite IDEs
 <!-- ![Notepad](https://skillicons.dev/icons?i=notepad) -->
 ![Intellij Idea](https://skillicons.dev/icons?i=idea)
 ![pycharm](https://skillicons.dev/icons?i=pycharm)
