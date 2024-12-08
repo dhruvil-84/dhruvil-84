@@ -1,24 +1,15 @@
 ![Greet](https://github.com/dhruvil-84/dhruvil-84/blob/main/Banner%202.jpg)
 
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ff6ec7&size=25&width=500&lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor)
-- 🏫 Currently in Semester 3 of B.Tech CSE at GSFC University.
+- 🏫 Currently in Semester 4 of B.Tech CSE at GSFC University.
 - 🎨 Member of the ACM GSFCU Design Team.
 - 💻 I chose B.Tech in CSE to shape the future through technology 💡.
 - 🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 🌐.
 - 🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝.
 - 🌱 Check out my projects.
-- 📫 Reach me at dhruvilvdhamecha84@gmail.com
+- 📫 Reach me at [Dhruvil](mailto:dhruvilvdhamecha84@gmail.com)
 
-<!--
-<p align="center"> 
-   <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-   </a>
-   <a href="https://github.com/dhruvil-84" target="_blank">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white" />
-   </a>
-</p>
--->
+[![](https://visitcount.itsvg.in/api?id=dhruvil-84&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💡 Tech Stack
 #### Programming Languages
@@ -32,10 +23,10 @@
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 #### Favourite IDEs
-<!-- ![Notepad](https://skillicons.dev/icons?i=notepad) -->
 ![Intellij Idea](https://skillicons.dev/icons?i=idea)
 ![pycharm](https://skillicons.dev/icons?i=pycharm)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Notepad](https://github.com/dhruvil-84/dhruvil-84/blob/main/NotepadIcon.png)
 
 #### Version Control
 ![Git](https://skillicons.dev/icons?i=git)
@@ -47,6 +38,7 @@
 ![Photoshop](https://skillicons.dev/icons?i=photoshop)
 ![Premiere Pro](https://skillicons.dev/icons?i=pr)
 
+
 # 📊 GitHub Analytics
 <p align="center"> 
    <a href="https://github.com/dhruvil-84"> 
@@ -57,14 +49,6 @@
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-84&theme=radical" />
    </a>
 </p>
-
-<!--
-<p align="center"> 
-   <a href="https://github.com/dhruvil-84"> 
-      <img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=dhruvil-84&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats" />
-   </a>
-</p>
--->
 
 # 🏆 GitHub Trophies
 <p align="center">
