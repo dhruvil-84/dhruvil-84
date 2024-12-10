@@ -5,7 +5,7 @@
 - 🎨 Member of the ACM GSFCU Design Team.
 - 💻 I chose B.Tech in CSE to shape the future through technology 💡.
 - 🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 🌐.
-- 🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝.
+- 🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝🏻.
 - 🌱 Check out my projects.
 - 📫 Reach me at [Dhruvil](mailto:dhruvilvdhamecha84@gmail.com)
 
