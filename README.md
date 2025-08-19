@@ -68,9 +68,9 @@
    <a href="https://www.hackerrank.com/profile/dhruvilvdhamecha" target="_blank"> 
       <img src="https://img.shields.io/badge/HackerRank-34A853?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /> 
    </a> 
-   <a href="https://leetcode.com/u/khdKsrmWvd" target="_blank"> 
+<!--    <a href="https://leetcode.com/u/khdKsrmWvd" target="_blank"> 
       <img src="https://img.shields.io/badge/Leetcode-FBBC05?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /> 
-   </a> 
+   </a>  -->
    <a href="mailto:dhruvilvdhamecha84@gmail.com" target="_blank"> 
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> 
    </a> 
