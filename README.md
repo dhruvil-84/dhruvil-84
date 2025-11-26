@@ -1,7 +1,8 @@
 ![Greet](https://github.com/dhruvil-84/dhruvil-84/blob/main/Banner%202.jpg)
 
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ff6ec7&size=25&width=500&lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor)
-- 🏫 Currently in Semester 4 of B.Tech CSE at GSFC University.
+- 🏫 Currently in Semester 5
+-  of B.Tech CSE at GSFC University.
 - 🎨 Member of the ACM GSFCU Design Team.
 - 💻 I chose B.Tech in CSE to shape the future through technology 💡.
 - 🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 🌐.
