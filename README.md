@@ -14,6 +14,10 @@
 #### Programming Languages
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![R](https://skillicons.dev/icons?i=r)
 
 #### Web Development
 ![HTML5](https://skillicons.dev/icons?i=html)
@@ -25,6 +29,8 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![ReactJS](https://skillicons.dev/icons?i=react)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 #### Favourite IDEs
 ![Intellij Idea](https://skillicons.dev/icons?i=idea)
