@@ -1,8 +1,7 @@
 ![Greet](https://github.com/dhruvil-84/dhruvil-84/blob/main/Banner%202.jpg)
 
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ff6ec7&size=25&width=500&lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor)
-- 🏫 Currently in Semester 5 of B.Tech CSE at GSFC University.
-- 🎨 Intern at ONGC Vadodara.
+- 🏫 Currently in Semester 7 of B.Tech CSE at GSFC University.
 - 💻 I chose B.Tech in CSE to shape the future through technology 💡.
 - 🎯 Passionate about coding challenges, hackathons, and staying updated with tech advancements 🌐.
 - 🙋🏼‍♂️ Strong in communication, a resilient mindset, and a collaborative spirit 🤝🏻.
@@ -21,6 +20,11 @@
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Express](https://skillicons.dev/icons?i=express)
+![ReactJS](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
 #### Favourite IDEs
 ![Intellij Idea](https://skillicons.dev/icons?i=idea)
